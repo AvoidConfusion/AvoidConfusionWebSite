@@ -15,7 +15,6 @@
 
 ## Katkıda Bulunma
 
-* [Katkıda Bulunacaklar İçin Belge](katkida-bulunma/untitled-1/README.md)
-  * [Untitled](katkida-bulunma/untitled-1/untitled.md)
-  * [Katkıda Bulunma](katkida-bulunma/untitled-1/untitled-1.md)
+* [Katkıda Bulunacaklar İçin Belge](katkida-bulunma/katkida-bulunacaklar-icin-belge/README.md)
+  * [Katkıda Bulunma](katkida-bulunma/katkida-bulunacaklar-icin-belge/untitled-1.md)
 
