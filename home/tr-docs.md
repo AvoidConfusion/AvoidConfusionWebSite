@@ -1,6 +1,6 @@
 # AvoidConfusion Discord Botu
 
-Maalesef depomuz, GitHub'ın İngilizce olmasından dolayı, İngilizce. Burayı da _Türkçe belgeler_ için ayarladım.
+Hiç bir Discord sunucusunda bir konuşma karışıklığı yaşadığınız oldu mu? Eğer olduysa, bu bot ilginizi çekecektir.
 
 Saygılarımla, @CadmiumC48
 

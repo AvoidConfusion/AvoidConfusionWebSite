@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AvoidConfusion Discord Bot](README.md)
+* [AvoidConfusion Discord Botu](README.md)
 
 ## Ana Menü <a id="home"></a>
 
